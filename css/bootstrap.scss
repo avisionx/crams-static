@@ -1,0 +1,11 @@
+$theme-colors: ("primary": #3b7cb4,
+  "secondary": #999999,
+  "success": #47a06e,
+  "info": #334d59,
+  "warning": #c49036,
+  "danger": #f44336,
+  "dark": #000000);
+
+$input-btn-focus-width: 0px;
+
+@import "../bootstrap/scss/bootstrap";

@@ -1,0 +1,12 @@
+$hamburger-layer-width         : 27px;
+$hamburger-layer-height        : 1px;
+$hamburger-layer-spacing       : 7px;
+$hamburger-layer-color         : #3b7cb4;
+$hamburger-layer-border-radius : 90px;
+$hamburger-hover-opacity       : 1;
+
+$hamburger-types: (
+  arrowalt,
+);
+
+@import "../hamburgers/hamburgers";

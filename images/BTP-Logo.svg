@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="313" height="138" viewBox="0 0 313 138">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800');
+    </style>
+    <style>
+      .cls-1 {
+        fill: #47a06e;
+      }
+      .cls-2 {
+        font-size: 26.667px;
+        fill: #334d59;
+        text-anchor: middle;
+        font-family: "Open Sans";
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="69" cy="69" r="69"/>
+  <text id="CRAMS" class="cls-2" transform="translate(173.412 106.647) scale(2.936)"><tspan x="0">CRAMS</tspan></text>
+</svg>
