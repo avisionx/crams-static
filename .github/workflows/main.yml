@@ -25,4 +25,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Change Manifest File
         run: |
-          echo Add other actions to build
+          sed -i -e 's/\/static//g' manifest.json
