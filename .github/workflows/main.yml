@@ -27,7 +27,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Production Build Manifest File
         run: |
-          sed -i -e 's/\/static//g' manifest.json
+          sed -i -e 's/static/crams-static/g' manifest.json
           git status
           git add manifest.json
           git commit -m "drop /static prefix for prod"
